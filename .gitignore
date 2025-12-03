@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Logs
+logs/
+*.log
+
+# Results
+results/
+topologies/
+*.png
+*.pdf
+*.json
+*.graphml
+*.memmap
+
+# Model checkpoints
+*.pth
+*.pt
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# BRITE
+*.brite
+# BRITE build artifacts
+external/brite/Java/Brite.jar
+external/brite/Java/*.class
+external/brite/C++/*.o
+external/brite/C++/brite
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+local_scratch/
+run_*/
+DOCS_INTERNAL/
+external/
+experiments/
+examples/
+
+# Pickle files
+*.pkl
+*.pickle
+*.pickled
+*.pickle.gz
+*.pickle.bz2
+*.pickle.zip
+*.pickle.tar
+*.pickle.tar.gz
+*.pickle.tar.bz2
+*.pickle.tar.zip

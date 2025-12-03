@@ -1,0 +1,3 @@
+[submodule "external/brite"]
+	path = external/brite
+	url = https://github.com/dongkai16z/brite.git
