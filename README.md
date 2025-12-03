@@ -1,4 +1,4 @@
-# SNETSIM - SCION Network Simulator
+# SCION Network Simulator for DQN-based Path Selection
 
 A simulator for SCION networks with Deep Q-Network (DQN) based path selection optimization.
 
